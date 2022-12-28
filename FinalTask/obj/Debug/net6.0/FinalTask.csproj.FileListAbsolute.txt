@@ -1,0 +1,15 @@
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/bin/Debug/net6.0/FinalTask
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/bin/Debug/net6.0/FinalTask.deps.json
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/bin/Debug/net6.0/FinalTask.runtimeconfig.json
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/bin/Debug/net6.0/FinalTask.dll
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/bin/Debug/net6.0/FinalTask.pdb
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.csproj.AssemblyReference.cache
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfoInputs.cache
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfo.cs
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.csproj.CoreCompileInputs.cache
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.dll
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/refint/FinalTask.dll
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.pdb
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/FinalTask.genruntimeconfig.cache
+/Users/vladislavrevenko/Desktop/c#/skillfactory/Module5/HW/FinalTask/obj/Debug/net6.0/ref/FinalTask.dll
